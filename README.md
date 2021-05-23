@@ -3,9 +3,7 @@ The main function of this project is to add the things that are supposed to be c
 completed list. 
 
 Todo:
-Gym
-Reading
-Assignment 
+Gym, Reading, Assignment 
 
 Completed:
 Workout
